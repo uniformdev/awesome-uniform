@@ -16,9 +16,9 @@ A list of resources, tools, projects, and awesome stuff in general, related to U
 
 ## Documentation
 
-- Platform documentation
-- Uniform for Sitecore documentation
-- API Spec (Swagger)
+- [Platform documentation](https://docs.uniform.app/)
+- [Uniform for Sitecore documentation](https://docs.uniform.dev/sitecore/)
+- [API Spec (Swagger)](https://uniform.app/schemas/swagger.html)
 
 ## Libraries and Tools
 
