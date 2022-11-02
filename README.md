@@ -45,6 +45,7 @@ A list of resources, tools, projects, and awesome stuff in general, related to U
 
 ## Community Talks and Streams
 
+- [Headless Creator](https://www.headlesscreator.com/)
 - [Trying things out - Uniform: Jacob Andrewsky](https://www.youtube.com/watch?v=NueIg3izQHU)
 
 ## Community Projects
