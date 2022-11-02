@@ -22,14 +22,14 @@ A list of resources, tools, projects, and awesome stuff in general, related to U
 
 ## Libraries and Tools
 
-- CLI
-- Canvas
-- Context
-- Canvas-react
-- Canvas-vue
-- Context-react
-- Context-vue
-- Others
+- [CLI](https://www.npmjs.com/package/@uniformdev/cli)
+- [Canvas](https://www.npmjs.com/package/@uniformdev/canvas)
+- [Context](https://www.npmjs.com/package/@uniformdev/context)
+- [Canvas-react](https://www.npmjs.com/package/@uniformdev/canvas-react)
+- [Canvas-vue](https://www.npmjs.com/package/@uniformdev/canvas-vue)
+- [Context-react](https://www.npmjs.com/package/@uniformdev/context-react)
+- [Context-vue](https://www.npmjs.com/package/@uniformdev/context-vue)
+- [Others](https://www.npmjs.com/search?q=%40uniformdev)
 
 ## Demos & Example Projects
 
@@ -44,7 +44,9 @@ A list of resources, tools, projects, and awesome stuff in general, related to U
 - Uniform type-gen: Speed up development, generate TypeScript types of your project Compositions and Components for local development.
 - Context-plausible: Send Uniform personalization & experimentation events to Plausible.
 
-## Community Talks
+## Community Talks and Streams
+
+- [Trying things out - Uniform: Jacob Andrewsky](https://www.youtube.com/watch?v=NueIg3izQHU)
 
 ## Community Projects
 
@@ -52,5 +54,6 @@ A list of resources, tools, projects, and awesome stuff in general, related to U
 
 - [Personalize Images on a Next.js Landing Page](https://mediajams.dev/post/how-to-personalize-images-on-an-event-landing-page-using-next.js)
 - [Composable Images with Cloudinary and BigCommerce](https://mediajams.dev/post/deliver-composable-commerce-images-with-cloudinary-and-bigcommerce-in-nextjs)
+- [DXC, we engineers hardly know ye](https://dev.to/chuloo/dxc-we-engineers-hardly-know-ye-3gmh)
 
 ## Others
