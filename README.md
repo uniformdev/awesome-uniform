@@ -1,18 +1,18 @@
 # Awesome Uniform
 
-A list of resources, tools, projects and awesome stuff in general, related to Uniform. Inspired by [awesome-algolia](https://github.com/algolia/awesome-algolia).
+A list of resources, tools, projects, and awesome stuff in general, related to Uniform. Inspired by [awesome-algolia](https://github.com/algolia/awesome-algolia).
 
 ## Table of Contents
 
-- [Documentation](/#documentation)
-- [Libraries & Tools](/#libraries--tools)
-- [Demos & Example Projects](/#demos--example-projects)
-- [Community](/#community)
-- [Community Libraries & Tools](/#community-libraries--tools)
-- [Community Talks](/#community-talks)
-- [Community Projects](/#community-projects)
-- [Community Blog Posts](/#community-blog-posts)
-- [Others](/#others)
+- [Documentation](#documentation)
+- [Libraries & Tools](#libraries--tools)
+- [Demos & Example Projects](#demos--example-projects)
+- [Community](#community)
+- [Community Libraries & Tools](#community-libraries--tools)
+- [Community Talks](#community-talks)
+- [Community Projects](#community-projects)
+- [Community Blog Posts](#community-blog-posts)
+- [Others](#others)
 
 ## Documentation
 
