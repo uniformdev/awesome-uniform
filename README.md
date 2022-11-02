@@ -41,8 +41,7 @@ A list of resources, tools, projects, and awesome stuff in general, related to U
 
 ## Community Libraries & Tools
 
-- Uniform type-gen: Speed up development, generate TypeScript types of your project Compositions and Components for local development.
-- Context-plausible: Send Uniform personalization & experimentation events to Plausible.
+- [Uniform code-gen](https://github.com/davetayls/uniform-codegen): Speed up development, generate TypeScript types of your project Compositions and Components for local development.
 
 ## Community Talks and Streams
 
