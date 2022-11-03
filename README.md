@@ -49,6 +49,7 @@ A list of resources, tools, projects, and awesome stuff in general, related to U
 - [Trying things out - Uniform: Jacob Andrewsky](https://www.youtube.com/watch?v=NueIg3izQHU)
 
 ## Community Projects
+- [Turbo Tutorials](https://turbo-tutorials.dev/): Learn the hard parts of modern JavaScript tools and technologies, fast.
 
 ## Community Blog Posts
 
