@@ -53,6 +53,7 @@ A list of resources, tools, projects, and awesome stuff in general, related to U
 
 ## Community Blog Posts
 
+- [Build A Product Delivery Page With Rust And Uniform](https://fullstackwriter.dev/post/build-a-product-delivery-page-with-rust-and-uniform?category=rust)
 - [Personalize Images on a Next.js Landing Page](https://mediajams.dev/post/how-to-personalize-images-on-an-event-landing-page-using-next.js)
 - [Composable Images with Cloudinary and BigCommerce](https://mediajams.dev/post/deliver-composable-commerce-images-with-cloudinary-and-bigcommerce-in-nextjs)
 - [DXC, we engineers hardly know ye](https://dev.to/chuloo/dxc-we-engineers-hardly-know-ye-3gmh)
